@@ -1,0 +1,37 @@
+🎨 Arts & Crafts Color Palette (TXT Friendly)
+
+Accent / Call to Action:
+  Name: Coral Red
+  HEX: #FF6F61
+  Use for: Buttons, Highlights, Call-to-action elements
+
+Main Text Color:
+  Name: Charcoal Navy
+  HEX: #2C3E50
+  Use for: Headings, Paragraph text, Menus
+
+Background Base:
+  Name: Light Beige
+  HEX: #FBEEDC
+  Use for: Main background color (soft and warm)
+
+Secondary Accent:
+  Name: Soft Gold
+  HEX: #FFC857
+  Use for: Icons, borders, soft emphasis
+
+Nature Tone:
+  Name: Muted Green
+  HEX: #84A98C
+  Use for: Decorative elements, badges, sections
+
+Calm Accent:
+  Name: Soft Sky Blue
+  HEX: #A3CEF1
+  Use for: Hover states, subtle background fills
+
+Tips:
+- Keep backgrounds light with #FBEEDC
+- Use #FF6F61 sparingly to catch attention
+- Combine #84A98C and #FFC857 for creative touches
+- Always keep text readable by using #2

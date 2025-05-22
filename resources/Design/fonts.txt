@@ -1,0 +1,40 @@
+🎨 Arts & Crafts Fonts (TXT Friendly Format)
+
+1. Header Font:
+   - Name: Fredoka
+   - Style: Rounded, playful
+   - Use for: Titles, headers, logos
+   - CSS: font-family: 'Fredoka', sans-serif;
+   - Google Fonts Link: https://fonts.google.com/specimen/Fredoka
+
+2. Body Font:
+   - Name: Open Sans
+   - Style: Clean, modern, easy to read
+   - Use for: Body text, paragraphs, buttons, form labels
+   - CSS: font-family: 'Open Sans', sans-serif;
+   - Google Fonts Link: https://fonts.google.com/specimen/Open+Sans
+
+3. Accent / Quote Font:
+   - Name: Shadows Into Light
+   - Style: Handwritten, casual
+   - Use for: Quotes, testimonials, personal notes
+   - CSS: font-family: 'Shadows Into Light', cursive;
+   - Google Fonts Link: https://fonts.google.com/specimen/Shadows+Into+Light
+
+📦 Google Fonts Import Link (HTML):
+Paste this inside your <head> tag in HTML:
+
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500&family=Open+Sans:wght@400;600&family=Shadows+Into+Light&display=swap" rel="stylesheet">
+
+✅ Usage in CSS:
+h1, h2 {
+  font-family: 'Fredoka', sans-serif;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.quote {
+  font-family: 'Shadows Into Light', cursive;
+}
