@@ -31,7 +31,7 @@ This site was built as part of a **front-end practice exercise** to improve the 
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://JM0602050.github.io/Dasmoto-arts-crafts/)
+🔗 [View Live Site](https://jmg002050.github.io/Dasmoto-arts-crafts/)
 
 ---
 
